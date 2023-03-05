@@ -1,11 +1,10 @@
 
 Links:
 Code link:
-https://github.com/siyuan-columbia/CS7641ML/blob/main/pj1/code/pj1.py
-Wine quality dataset:
-https://github.com/siyuan-columbia/CS7641ML/blob/main/pj1/data/winequality-white.csv
-Italian Mortgage Default Dataset:
-https://github.com/siyuan-columbia/CS7641ML/blob/main/pj1/data/Italy_default_prior_2004.csv
+https://github.com/siyuan-columbia/CS7641ML/blob/main/pj2/Optimization.py
+https://github.com/siyuan-columbia/CS7641ML/blob/main/pj2/NN.py
 
+The package required to run my code in contained in https://github.com/siyuan-columbia/CS7641ML/blob/main/pj2/requirements.txt
 
-The packages that need to install:pandas, matplotlib, sklearn, datetime, numpyBefore running the code, please make sure the working directory has the following paths:/data/winequality-white.csv/data/Italy_default_prior_2004.csv/result/decision_tree/result/neural_network/result/boosting/result/SVM/result/knn
+For section 1, simply run NN.py and all graphs should be poped in the "results" folder.
+For section 2, simply run Optimization.py and all graphs should be poped in the "results" folder.
